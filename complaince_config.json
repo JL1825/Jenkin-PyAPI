@@ -1,0 +1,12 @@
+{
+    "tenants" : ["603fe83a24bcbf3b52a33379"],
+    "username": ["john.li@corestack.io"],
+    "auth_token" : "52ec451c-0a33-493d-9979-b554d9b0ffc8",
+    "payload": {
+    "cloud_accounts": ["611cb0c6933118e37fcc6f28"],
+    "compliance_uri": "Fedramp-Control-High/0009"
+    }
+
+}
+
+
